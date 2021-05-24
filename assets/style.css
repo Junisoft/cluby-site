@@ -45,7 +45,8 @@ CSS INDEX
 ------------------*/
 @font-face {
 	font-family: 'Comfortaa-Regular';
-	src:url('/assets/fonts/Comfortaa-Regular.ttf') format("truetype");
+	/* src:url('/assets/fonts/Comfortaa-Regular.ttf') format("truetype"); */
+    src:url('fonts/Comfortaa-Regular.ttf') format("truetype");
 	font-weight: normal;
 	font-style: normal;
 }
